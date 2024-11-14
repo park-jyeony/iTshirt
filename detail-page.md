@@ -1,1 +1,1 @@
-detail-page µ¥½º
+it is detail-page 

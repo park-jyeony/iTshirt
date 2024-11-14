@@ -1,5 +1,6 @@
-개발자 티셔츠 쇼핑몰 오픈 소스 사이코데스
+tshirt for developer shopping mall open source
 
-개발자 목록
-1. 고양이
-2. 문어?타코야끼? 모르겠탁호
+developer list
+
+1. cat
+2. octopus? Takoyaki? idontknow
