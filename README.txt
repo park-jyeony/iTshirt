@@ -4,3 +4,4 @@ developer list
 
 1. cat
 2. octopus? Takoyaki? idontknow
+3. jyny
